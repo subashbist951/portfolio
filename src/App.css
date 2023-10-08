@@ -72,6 +72,9 @@
   text-decoration: underline;
   cursor: pointer;
 }
+.project-title:hover{
+  color: rgb(94 234 212/var(1));
+}
 .project-description{
   font-style: italic;
 }
@@ -99,4 +102,21 @@
 /* Change the color on hover (optional) */
 ::-webkit-scrollbar-thumb:hover {
   background-color: #0055CC; /* Change to your desired color on hover */
+}
+
+@media (max-width: 800px) {
+  .App{
+    height: 1200px;
+    padding: 0 4% 0 4%;
+  }
+  .home{
+    display: block;
+  }
+  .profile-data h1{
+    margin-top: 0px;
+    padding-top: 30px;
+  }
+  .projects .description p{
+    text-align: justify;
+  }
 }
