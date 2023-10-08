@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Online Electronics Store",
+      "description": "A full-fledged e-commerce website with React.js and Node.js.",
+      "technologies": ["React.js", "Node.js", "Redux", "HTML", "CSS"]
+    },
+    {
+      "id": 2,
+      "name": "ConnectHub - The Social Network",
+      "description": "A social media platform for connecting users with common interests.",
+      "technologies": ["React.js", "Node.js", "MongoDB", "HTML", "CSS", "WebSocket"]
+    },
+    {
+      "id": 3,
+      "name": "TaskMaster - Your Personal Task Manager",
+      "description": "A task management application built with React.js and Node.js.",
+      "technologies": ["React.js", "Node.js", "MongoDB", "HTML", "CSS"]
+    },
+    {
+      "id": 4,
+      "name": "Blogify - Content Management Made Easy",
+      "description": "A content management system (CMS) developed with Laravel and React.js.",
+      "technologies": ["Laravel", "React.js", "MySQL", "HTML", "CSS"]
+    },
+    {
+      "id": 5,
+      "name": "WeatherWiz - Your Personal Weather Assistant",
+      "description": "A weather dashboard application built with React.js and external APIs.",
+      "technologies": ["React.js", "HTML", "CSS", "Weather API"]
+    }
+  ]
+  
